@@ -38,5 +38,12 @@ namespace FormsApp.Models
             _products.Add(new Product{ProductId=6, Name = "Macbook Pro", Price=9000, IsActive=true, Image="6.jpg", CategoryId=2 });
         }
 
+
+
+        public static void CreateProduct(Product entity)
+        {
+            _products.Add(entity);
+        }
+
     }
 }
