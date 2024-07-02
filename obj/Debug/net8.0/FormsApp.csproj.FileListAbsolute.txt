@@ -28,3 +28,4 @@ C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\Form
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.pdb
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.genruntimeconfig.cache
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\ref\FormsApp.dll
+C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.sourcelink.json

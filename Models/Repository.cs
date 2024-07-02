@@ -26,7 +26,7 @@ namespace FormsApp.Models
         static Repository()
         {
             _categories.Add(new Category {CategoryId=1, Name="Telefon"});
-            _categories.Add(new Category {CategoryId=1, Name="bilgisayar"});
+            _categories.Add(new Category {CategoryId=2, Name="bilgisayar"});
 
             _products.Add(new Product{ProductId=1, Name = "Iphone 14", Price=4000, IsActive=true, Image="1.jpg", CategoryId=1 });
             _products.Add(new Product{ProductId=2, Name = "Iphone 15", Price=5000, IsActive=true, Image="2.jpg", CategoryId=1 });
