@@ -8,6 +8,7 @@ namespace FormsApp.Models
     [Display(Name="Urun Id")]
     public int ProductId { get; set; }
 
+    [Required]
     [Display(Name="Urun Adı")]
     public string Name { get; set; } = string.Empty;
 
@@ -19,6 +20,7 @@ namespace FormsApp.Models
 
     public bool IsActive { get; set; }
 
+    [Display(Name="Category")]
     public int CategoryId { get; set; }
 
     }
