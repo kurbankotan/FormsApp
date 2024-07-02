@@ -18,12 +18,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/Views/Home/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/Views/Shared/Error.cshtml]
