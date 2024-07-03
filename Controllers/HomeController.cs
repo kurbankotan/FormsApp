@@ -94,14 +94,16 @@ public class HomeController : Controller
 
     }
 
-    public IActionResult Edit(int? id)
+
+    [HttpGet]
+    public IActionResult Edit(int? id) // id'yi adres linlinde arar
     {
         if(id == null)
         {
             return NotFound();
         }
 
-        var entity = Repository.Products.FirstOrDefault(p=>p.ProductId==id);
+        var entity = Repository.Products.FirstOrDefault(p=>p.ProductId==id); // Gelen id'li ürünü veri tabanında ara ve bul
 
        if(entity == null)
         {
@@ -109,6 +111,41 @@ public class HomeController : Controller
         }
         ViewBag.Categories = new SelectList(Repository.Categories, "CategoryId", "Name");
         return View(entity);
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> Edit(int id, Product model, IFormFile? imageFile)
+    {
+        if(id != model.ProductId)
+        {
+            return NotFound();
+        }
+
+        if(ModelState.IsValid)
+        {
+
+          if(imageFile != null)
+            {            
+                
+            model.ProductId = Repository.Products.Count+1;
+            var extension = Path.GetExtension(imageFile.FileName); //abc.jpg
+            var randomFileName = string.Format($"{model.ProductId}{extension}");
+            var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img", randomFileName);
+
+            using(var stream = new FileStream(path, FileMode.Create))
+                {
+                    await imageFile.CopyToAsync(stream); // ! koyarsak imageFile null değil, ben programlamada onu null olmayacak şekilde ayarladım demek
+                }
+             model.Image = randomFileName;
+            }
+
+            Repository.EditProduct(model);
+            return RedirectToAction("Index");
+        }
+
+        ViewBag.Categories = new SelectList(Repository.Categories, "CategoryId", "Name");
+        return View(model);
+
     }
 
 }
