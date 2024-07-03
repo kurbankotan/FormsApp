@@ -10,7 +10,7 @@ namespace FormsApp.Models
     public int ProductId { get; set; }
 
 
-    [Required(ErrorMessage ="İsim için gerekli bir alan. Lütfen doldurunuz")]
+    [Required(ErrorMessage ="İsim için gerekli bir alan doldurunuz lütfen.")]
     [StringLength(100)]
     [Display(Name="Urun Adı")]
     public string Name { get; set; }=null!;
