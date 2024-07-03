@@ -13,7 +13,7 @@ namespace FormsApp.Models
     [Required(ErrorMessage ="İsim için gerekli bir alan. Lütfen doldurunuz")]
     [StringLength(100)]
     [Display(Name="Urun Adı")]
-    public string? Name { get; set; }
+    public string Name { get; set; }=null!;
 
 
     [Required]
@@ -31,6 +31,9 @@ namespace FormsApp.Models
 
     [Display(Name="Category")]
     public int CategoryId { get; set; }
+
+
+    public IFormFile? ImageFile { get; set; }
 
     }
 }

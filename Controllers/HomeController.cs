@@ -51,11 +51,37 @@ public class HomeController : Controller
 
     
     [HttpPost]
-    public IActionResult Create(Product model)
+    public async Task<IActionResult> Create(Product model, IFormFile imageFile)
     {
+        model.ProductId = Repository.Products.Count+1;
+
+        var allowedExtensions = new[] {".jpg", ".jpeg", ".png"}; //izin verilen resim dosyası uzantıları
+        var extension = Path.GetExtension(imageFile.FileName); //abc.jpg
+
+        //Resim İsmi Ya bu şekilde random yapılır:
+        //var randomFileName = string.Format($"{Guid.NewGuid().ToString()}{extension}"); // Random İsim oluşturma da Yapılabilir
+        //Ya da böyle:
+        //ProductId.extension şeklinde yazsın. Mesela 12.jpg gibi
+        var randomFileName = string.Format($"{model.ProductId}{extension}");
+        var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img", randomFileName);
+
+        //Resim uzantısı uygun değilse uyar
+        if(imageFile !=null)
+        {
+            if(!allowedExtensions.Contains(extension))
+            {
+                ModelState.AddModelError("","Geçerli uzantılı bir resim seçin lütfen.");
+            }    
+        }
+
         if(ModelState.IsValid)
         {
-         model.ProductId = Repository.Products.Count+1;
+         using(var stream = new FileStream(path,FileMode.Create))
+         {
+            await imageFile!.CopyToAsync(stream); // ! koyarsak imageFile null değil, ben programlamada onu null olmayacak şekilde ayarladım demek
+         }
+         
+         model.Image = randomFileName;
          Repository.CreateProduct(model);
          return RedirectToAction("Index");    
         }
