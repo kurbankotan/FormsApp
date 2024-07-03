@@ -127,7 +127,6 @@ public class HomeController : Controller
           if(imageFile != null)
             {            
                 
-            model.ProductId = Repository.Products.Count+1;
             var extension = Path.GetExtension(imageFile.FileName); //abc.jpg
             var randomFileName = string.Format($"{model.ProductId}{extension}");
             var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img", randomFileName);
