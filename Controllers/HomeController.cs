@@ -128,7 +128,7 @@ public class HomeController : Controller
             {            
                 
             var extension = Path.GetExtension(imageFile.FileName); //abc.jpg
-            var randomFileName = string.Format($"{model.ProductId}{extension}");
+            var randomFileName = string.Format($"{Guid.NewGuid().ToString()}{extension}");
             var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img", randomFileName);
 
             using(var stream = new FileStream(path, FileMode.Create))

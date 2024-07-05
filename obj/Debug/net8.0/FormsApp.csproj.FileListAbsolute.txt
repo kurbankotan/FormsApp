@@ -1,10 +1,65 @@
-C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.AssemblyInfoInputs.cache
-C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.AssemblyInfo.cs
-C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.csproj.CoreCompileInputs.cache
-C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.RazorAssemblyInfo.cache
-C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.RazorAssemblyInfo.cs
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.AssemblyInfoInputs.cache
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.AssemblyInfo.cs
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.csproj.CoreCompileInputs.cache
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.RazorAssemblyInfo.cache
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.RazorAssemblyInfo.cs
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/bin/Debug/net8.0/appsettings.json
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/bin/Debug/net8.0/FormsApp.staticwebassets.runtime.json
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/bin/Debug/net8.0/FormsApp.exe
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/bin/Debug/net8.0/FormsApp.deps.json
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/bin/Debug/net8.0/FormsApp.runtimeconfig.json
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/bin/Debug/net8.0/FormsApp.dll
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/bin/Debug/net8.0/FormsApp.pdb
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/staticwebassets/msbuild.FormsApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/staticwebassets/msbuild.build.FormsApp.props
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FormsApp.props
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FormsApp.props
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/scopedcss/bundle/FormsApp.styles.css
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/scopedcss/projectbundle/FormsApp.bundle.scp.css
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.dll
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/refint/FormsApp.dll
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.pdb
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.genruntimeconfig.cache
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/ref/FormsApp.dll
+C:/Users/PC/OneDrive - duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.sourcelink.json
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/bin/Debug/net8.0/appsettings.Development.json
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/bin/Debug/net8.0/appsettings.json
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/bin/Debug/net8.0/FormsApp.staticwebassets.runtime.json
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/bin/Debug/net8.0/FormsApp
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/bin/Debug/net8.0/FormsApp.deps.json
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/bin/Debug/net8.0/FormsApp.runtimeconfig.json
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/bin/Debug/net8.0/FormsApp.dll
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/bin/Debug/net8.0/FormsApp.pdb
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.AssemblyInfoInputs.cache
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.AssemblyInfo.cs
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.csproj.CoreCompileInputs.cache
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.RazorAssemblyInfo.cache
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.RazorAssemblyInfo.cs
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.sourcelink.json
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/staticwebassets.build.json
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/staticwebassets.development.json
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/staticwebassets/msbuild.FormsApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/staticwebassets/msbuild.build.FormsApp.props
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FormsApp.props
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FormsApp.props
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/scopedcss/bundle/FormsApp.styles.css
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/scopedcss/projectbundle/FormsApp.bundle.scp.css
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.dll
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/refint/FormsApp.dll
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.pdb
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/FormsApp.genruntimeconfig.cache
+/Users/kurbankotan/Library/CloudStorage/OneDrive-duzce.edu.tr/Programlama Çalışmaları/Aspnet Core/FormsApp/obj/Debug/net8.0/ref/FormsApp.dll
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\bin\Debug\net8.0\appsettings.json
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\bin\Debug\net8.0\FormsApp.staticwebassets.runtime.json
@@ -13,6 +68,14 @@ C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\Form
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\bin\Debug\net8.0\FormsApp.runtimeconfig.json
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\bin\Debug\net8.0\FormsApp.dll
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\bin\Debug\net8.0\FormsApp.pdb
+C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.AssemblyInfo.cs
+C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.RazorAssemblyInfo.cache
+C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.RazorAssemblyInfo.cs
+C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.sourcelink.json
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\staticwebassets\msbuild.FormsApp.Microsoft.AspNetCore.StaticWebAssets.props
@@ -28,4 +91,3 @@ C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\Form
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.pdb
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.genruntimeconfig.cache
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\ref\FormsApp.dll
-C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\FormsApp\obj\Debug\net8.0\FormsApp.sourcelink.json
