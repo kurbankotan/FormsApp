@@ -13,10 +13,6 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\1.jpeg",
-      "PackagePath": "staticwebassets\\img\\1.jpeg"
-    },
-    {
       "Id": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\1.jpg",
       "PackagePath": "staticwebassets\\img\\1.jpg"
     },
@@ -33,16 +29,28 @@
       "PackagePath": "staticwebassets\\img\\4.jpg"
     },
     {
+      "Id": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\4057cedc-8b18-4f5c-9c57-f60480358131.jpg",
+      "PackagePath": "staticwebassets\\img\\4057cedc-8b18-4f5c-9c57-f60480358131.jpg"
+    },
+    {
       "Id": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\5.jpg",
       "PackagePath": "staticwebassets\\img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\518e0271-3d99-487f-b670-bcbd8fb25bc2.jpeg",
+      "PackagePath": "staticwebassets\\img\\518e0271-3d99-487f-b670-bcbd8fb25bc2.jpeg"
     },
     {
       "Id": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\6.jpg",
       "PackagePath": "staticwebassets\\img\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\7.jpeg",
-      "PackagePath": "staticwebassets\\img\\7.jpeg"
+      "Id": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\S24.jpeg",
+      "PackagePath": "staticwebassets\\img\\S24.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\b2d1dffd-ff4f-4d48-bdbd-04f434690dd0.jpeg",
+      "PackagePath": "staticwebassets\\img\\b2d1dffd-ff4f-4d48-bdbd-04f434690dd0.jpeg"
     },
     {
       "Id": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\js\\site.js",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "joeqrd8MlAsz8zatuxemOqGr9gJWOIsGIQ2Vf6VCIR8=",
+  "Hash": "eGi8PWW5fA3jFIt5khM//L5cGgSZXDFNr9zNIAa2UzQ=",
   "Source": "FormsApp",
   "BasePath": "_content/FormsApp",
   "Mode": "Default",
@@ -93,25 +93,6 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\1.jpeg",
-      "SourceId": "FormsApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\",
-      "BasePath": "_content/FormsApp",
-      "RelativePath": "img/1.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\1.jpeg"
-    },
-    {
       "Identity": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\1.jpg",
       "SourceId": "FormsApp",
       "SourceType": "Discovered",
@@ -188,6 +169,25 @@
       "OriginalItemSpec": "wwwroot\\img\\4.jpg"
     },
     {
+      "Identity": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\4057cedc-8b18-4f5c-9c57-f60480358131.jpg",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/4057cedc-8b18-4f5c-9c57-f60480358131.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\4057cedc-8b18-4f5c-9c57-f60480358131.jpg"
+    },
+    {
       "Identity": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\5.jpg",
       "SourceId": "FormsApp",
       "SourceType": "Discovered",
@@ -205,6 +205,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\518e0271-3d99-487f-b670-bcbd8fb25bc2.jpeg",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/518e0271-3d99-487f-b670-bcbd8fb25bc2.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\518e0271-3d99-487f-b670-bcbd8fb25bc2.jpeg"
     },
     {
       "Identity": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\6.jpg",
@@ -226,12 +245,12 @@
       "OriginalItemSpec": "wwwroot\\img\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\7.jpeg",
+      "Identity": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\b2d1dffd-ff4f-4d48-bdbd-04f434690dd0.jpeg",
       "SourceId": "FormsApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\",
       "BasePath": "_content/FormsApp",
-      "RelativePath": "img/7.jpeg",
+      "RelativePath": "img/b2d1dffd-ff4f-4d48-bdbd-04f434690dd0.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -242,7 +261,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\7.jpeg"
+      "OriginalItemSpec": "wwwroot\\img\\b2d1dffd-ff4f-4d48-bdbd-04f434690dd0.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\img\\S24.jpeg",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/S24.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\S24.jpeg"
     },
     {
       "Identity": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama Çalışmaları\\Aspnet Core\\FormsApp\\wwwroot\\js\\site.js",

@@ -54,20 +54,15 @@ public class HomeController : Controller
     public async Task<IActionResult> Create(Product model, IFormFile imageFile)
     {
         model.ProductId = Repository.Products.Count+1;
+        var extension = "";
 
-        var allowedExtensions = new[] {".jpg", ".jpeg", ".png"}; //izin verilen resim dosyası uzantıları
-        var extension = Path.GetExtension(imageFile.FileName); //abc.jpg
 
-        //Resim İsmi Ya bu şekilde random yapılır:
-        //var randomFileName = string.Format($"{Guid.NewGuid().ToString()}{extension}"); // Random İsim oluşturma da Yapılabilir
-        //Ya da böyle:
-        //ProductId.extension şeklinde yazsın. Mesela 12.jpg gibi
-        var randomFileName = string.Format($"{model.ProductId}{extension}");
-        var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img", randomFileName);
 
         //Resim uzantısı uygun değilse uyar
         if(imageFile !=null)
         {
+            var allowedExtensions = new[] {".jpg", ".jpeg", ".png"}; //izin verilen resim dosyası uzantıları
+            extension = Path.GetExtension(imageFile.FileName); //abc.jpg
             if(!allowedExtensions.Contains(extension))
             {
                 ModelState.AddModelError("","Geçerli uzantılı bir resim seçin lütfen.");
@@ -78,15 +73,25 @@ public class HomeController : Controller
         {
             if(imageFile != null)
             {
+                
+                //Resim İsmi Ya bu şekilde random yapılır:
+                //var randomFileName = string.Format($"{Guid.NewGuid().ToString()}{extension}"); // Random İsim oluşturma da Yapılabilir
+                //Ya da böyle:
+                //ProductId.extension şeklinde yazsın. Mesela 12.jpg gibi
+                var randomFileName = string.Format($"{model.ProductId}{extension}");
+                var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img", randomFileName);
+
                 using(var stream = new FileStream(path,FileMode.Create))
                 {
                     await imageFile!.CopyToAsync(stream); // ! koyarsak imageFile null değil, ben programlamada onu null olmayacak şekilde ayarladım demek
                 }
+                
+                model.Image = randomFileName;
+                Repository.CreateProduct(model);
+                return RedirectToAction("Index");    
             }
 
-         model.Image = randomFileName;
-         Repository.CreateProduct(model);
-         return RedirectToAction("Index");    
+
         }
     
         ViewBag.Categories =  new SelectList(Repository.Categories, "CategoryId", "Name");
@@ -147,4 +152,46 @@ public class HomeController : Controller
 
     }
 
+
+    [HttpGet]
+    public IActionResult Delete(int? id)
+    {
+        if(id==null)
+        {
+            return NotFound();
+        }
+
+ 
+       var entity = Repository.Products.FirstOrDefault(p=>p.ProductId==id); // Gelen id'li ürünü veri tabanında ara ve bul
+
+       if(entity == null)
+        {
+            return NotFound();
+        }
+
+        return View("DeleteConfirm", entity);
+
+    }
+
+
+
+    [HttpPost]
+    public IActionResult Delete(int id, int ProductId)
+    {
+        if(id != ProductId)
+        {
+            return NotFound();
+        }
+
+       var entity = Repository.Products.FirstOrDefault(p=>p.ProductId==ProductId); // Gelen id'li ürünü veri tabanında ara ve bul
+
+       if(entity == null)
+        {
+            return NotFound();
+        }
+
+        Repository.DeleteProduct(entity);
+        return RedirectToAction("Index");
+
+    }
 }
