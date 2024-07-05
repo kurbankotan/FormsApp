@@ -30,7 +30,7 @@ namespace FormsApp.Models
 
             _products.Add(new Product{ProductId=1, Name = "Iphone 14", Price=4000, IsActive=true, Image="1.jpg", CategoryId=1 });
             _products.Add(new Product{ProductId=2, Name = "Iphone 15", Price=5000, IsActive=true, Image="2.jpg", CategoryId=1 });
-            _products.Add(new Product{ProductId=3, Name = "Iphone 16", Price=6000, IsActive=true, Image="3.jpg", CategoryId=1 });
+            _products.Add(new Product{ProductId=3, Name = "Iphone 16", Price=6000, IsActive=false, Image="3.jpg", CategoryId=1 });
             _products.Add(new Product{ProductId=4, Name = "Iphone 17", Price=7000, IsActive=true, Image="4.jpg", CategoryId=1 });
 
 
@@ -56,6 +56,17 @@ namespace FormsApp.Models
                 entity.Price = updatedProduct.Price;
                 entity.Image = updatedProduct.Image;
                 entity.CategoryId = updatedProduct.CategoryId;
+                entity.IsActive = updatedProduct.IsActive;
+            }
+        }
+
+
+        public static void EditIsActive(Product updatedProduct)
+        {
+            var entity = _products.FirstOrDefault(p=>p.ProductId==updatedProduct.ProductId);
+
+            if(entity != null)
+            {
                 entity.IsActive = updatedProduct.IsActive;
             }
         }
