@@ -1,1 +1,1 @@
-Elektronik Ürün Ekleme ve Listeleme Asp.net Core Projesi
+Elektronik Ürün Satış Sitesinde Ürün Ekleme, Düzeltme ve Listeleyen Asp.net Core Projesi (SQL'siz)
